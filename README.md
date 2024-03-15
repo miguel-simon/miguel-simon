@@ -1,5 +1,5 @@
 # ¡Hola!👋 ¡Bienvenido a mi página de GitHub!
-### Miguel de-Simón-Martín, profesor del Área de Ingeniería Eléctrica de la Universidad de León 👨🏼‍🏫
+### Miguel de-Simón-Martín, profesor del Área de Ing. Eléctrica en la Universidad de León 👨🏼‍🏫
 
 Soy profesor de **Sistemas Eléctricos de Potencia** y **Energías Renovables** desde hace más de 10 años y, tanto para mi actividad investigadora como docente, hago mis propios *scripts* para el cálculo y tratamiento de datos. Mi formación como programador es prácticamente autodidacta, por lo que, aunque trato de mejorar cada día, mi código no es el más puro, ¡pero funciona! Espero que los recursos que dejo por aquí te sean de utilidad.
 
